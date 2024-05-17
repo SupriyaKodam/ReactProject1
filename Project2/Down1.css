@@ -1,0 +1,9 @@
+.heading h1{
+    padding-left:5%;
+}
+.heading p{
+   text-align: justify;
+   padding-left:5%;
+   padding-right:17%;
+   font-weight:100;
+}

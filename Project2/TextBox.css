@@ -1,0 +1,11 @@
+.field{
+    width:90%;
+    color:black;
+    padding-left:20px;
+    border-width:1px;
+    border-color:skyblue;
+    margin-bottom: 20px;
+}
+.field label{
+    color:black;
+}

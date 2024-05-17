@@ -1,0 +1,15 @@
+.Container{
+    display:flex;
+    margin:0 auto;
+    height:72px;
+    max-width: 1400px;
+    justify-content: space-between;
+    padding-bottom:10px;
+}
+.Container ul{
+    display:flex;
+    align-items:right;
+    list-style: none;
+    gap:40px;
+    font-weight: 500;
+}
